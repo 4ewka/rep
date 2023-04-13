@@ -1,0 +1,37 @@
+# Maven build directories
+target/
+*/target/
+
+# Gradle build directories
+build/
+*/build/
+
+# Android Studio directories
+.gradle/
+.idea/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Compiled classes and libraries
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated files
+bin/
+gen/
+
+# Log files
+*.log
+*.log.*
+*.stacktrace
+
+# Mac-specific files
+.DS_Store
+
+# Eclipse-specific files
+.project
+.classpath
+.settings/
